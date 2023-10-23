@@ -3,7 +3,7 @@
 		<picture>
 			<img alt="logo" src="https://static.wikia.nocookie.net/megamitensei/images/3/32/FusionSpellCutIn.png" width="300px">
 		</picture>
-		<br><h1>*Heroin*</h1>
+		<h1>*Heroin*</h1>
 		<hr>
 		<h4>a silly goofy discord bot for the website heroin.gg</h4>
 		<br>
