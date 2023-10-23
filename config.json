@@ -1,0 +1,5 @@
+{
+    "token": "Discord bot token",
+    "embed_color": "8ca2b1", put a hex color for all the embed colors
+    "owner_id": "1024824598757384202" put ur discord id here
+}
