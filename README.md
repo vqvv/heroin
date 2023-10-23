@@ -1,12 +1,10 @@
 <div align="center">
-	<h3>
-		<picture>
-			<img alt="logo" src="https://static.wikia.nocookie.net/megamitensei/images/3/32/FusionSpellCutIn.png" width="300px">
-		</picture>
-		<h1>*Heroin*</h1>
-		<hr>
-		<h4>a silly goofy discord bot for the website heroin.gg</h4>
-		<br>
-		<a href="https://heroin.gg">heroin.gg</a>
-	</h3>
+    <h3>
+        <img alt="logo" src="https://static.wikia.nocookie.net/megamitensei/images/3/32/FusionSpellCutIn.png" width="300px">
+        <h1>Heroin</h1>
+        <hr>
+        <h4>A silly goofy discord bot for the website heroin.gg</h4>
+        <br>
+        <a href="https://heroin.gg">heroin.gg</a>
+    </h3>
 </div>
